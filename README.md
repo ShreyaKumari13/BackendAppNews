@@ -1,2 +1,2 @@
 # BackendAppNews
- later
+This is backend code for NewsApp
